@@ -1,12 +1,3 @@
-# todo
-# [x] clean up the code
-# [x] fix the rotation bug
-# [x] make a readme.md for the paths
-# [x] find the teleop command and put that in tips
-# [x] publish distance and angular errors and visualize in rqt_plot
-# [ ] collect ros bag
-
-
 #!/usr/bin/env python3
 
 import rclpy
